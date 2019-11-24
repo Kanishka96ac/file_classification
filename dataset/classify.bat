@@ -1,0 +1,1 @@
+start cmd /k C:\Users\ASUS\AppData\Local\Programs\Python\Python37\python.exe F:\proteger_system\file_classification\dataset\completed.py
